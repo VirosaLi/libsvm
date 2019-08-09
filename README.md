@@ -10,7 +10,7 @@ Changes made in the framework include:
 * Added a sample dataset from the original program's website.
 * Added a cmake file to simplify building process.
 * Replaced deprecated libraries. 
-* Code reformat.
+* Reformatted code.
 * And more.
 
 If you don't like this simplified version, you are welcome to directly use the original program from the link above.
