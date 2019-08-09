@@ -36,7 +36,7 @@ Please see the original repo and its website https://www.csie.ntu.edu.tw/~cjlin/
 ```shell script
 ./svm-train data/a1a test_model
 ```
-*
+
 optimization finished, #iter = 537
 nu = 0.460270
 obj = -673.031415, rho = 0.628337
@@ -46,4 +46,5 @@ Total nSV = 754
 ```shell script
 ./svm-predict data/a1a.t test_model output
 ```
+
 Accuracy = 83.5864% (25875/30956) (classification)
