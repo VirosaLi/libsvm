@@ -182,7 +182,7 @@ void Cache::swap_index(int i, int j) {
                 lru_delete(h);
                 free(h->data);
                 size += h->len;
-                h->data = 0;
+                h->data = nullptr;
                 h->len = 0;
             }
         }
